@@ -3,6 +3,7 @@ body {
   background-color: white;
   margin: 0;
   padding: 150px;
+  display: flex;
 }
 
 .resume-container {
@@ -15,13 +16,13 @@ body {
 }
 .right-section {
   background-color: rgb(240, 237, 237);
-  /* font-family: "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   border-radius: 10px;
   box-shadow: 0 0 15px black;
   cursor: pointer;
-  margin-top: 10px; */
+  margin-top: 10px;
   padding: 20px;
-  /* font-size: 18px; */
+  font-size: 18px;
   width: 65%;
 }
 
